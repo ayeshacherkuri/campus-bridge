@@ -44,14 +44,14 @@ Universities generally lack a cohesive solution that integrates academic content
 ### ⚙️ Backend Development
 - **PHP** manages LMS and academic features.
 - **Flask (Python)** is the powerhouse of dynamic APIs like attendance tracking and AI integration.
-### ???? AI Integration
+### AI Integration
 - Employs **OpenAI GPT** or **Google Gemini APIs** for:
   - Code suggestions
   - Debugging tips
   - Intelligent code review
 - Student profile-based job matching
 
-### ???? API Communication
+### API Communication
 - **REST APIs** control client-server communication.
 - **AJAX** and **Fetch API** facilitate seamless asynchronous data interaction.
 
